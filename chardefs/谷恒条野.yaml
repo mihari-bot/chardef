@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/mihari-bot/bot/refs/heads/main/internal/chardef/spec.json
+
 name: "谷恒条野"
 alias:
   - "条野"
